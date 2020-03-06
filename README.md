@@ -1,9 +1,7 @@
-react cli
+travolta cli
 ======
 
 The Travolta React CLI is a command-line interface tool that you use to initialize, develop, and maintain React application.
-
-[![License](https://img.shields.io/npm/l/travolta.svg)](https://github.com/oleh-polishchuk/travolta-cli/blob/master/package.json)
 
 <!-- toc -->
 * [Usage](#usage)
