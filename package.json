@@ -1,0 +1,23 @@
+{
+  "name": "travolta-cli",
+  "version": "1.0.0",
+  "description": "Travolta React CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oleh-polishchuk/travolta-cli.git"
+  },
+  "bin": {
+    "travolta": "./index.js",
+    "travolta-cli": "./index.js"
+  },
+  "dependencies": {
+    "xregexp": "4.2.4",
+    "yargs": "13.2.2"
+  }
+}
